@@ -1,6 +1,6 @@
 {
   "name": "@hb/pug-lint",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "description": "An unopinionated and configurable linter and style checker for Pug (formerly Jade)",
   "author": "Ben Edwards <hello@benedfit.com>",
   "license": "ISC",
@@ -60,9 +60,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:pugjs/pug-lint.git"
-  },
-  "publishConfig": {
-    "registry": "http://registry.npmjs.org"
   },
   "main": "./lib/linter",
   "bin": {
